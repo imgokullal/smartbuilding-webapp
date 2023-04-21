@@ -1,0 +1,7 @@
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/webapp
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/appsettings.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/webapp.dll
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/webapp.deps.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/webapp.runtimeconfig.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/bin/Release/net6.0/publish/webapp.pdb
