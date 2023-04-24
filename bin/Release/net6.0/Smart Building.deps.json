@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "webapp/1.0.0": {
+      "Smart Building/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
-          "webapp.dll": {}
+          "Smart Building.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.1": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "webapp/1.0.0": {
+    "Smart Building/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

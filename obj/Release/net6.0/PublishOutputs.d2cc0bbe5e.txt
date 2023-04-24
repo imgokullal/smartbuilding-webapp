@@ -1,9 +1,9 @@
-/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/webapp
+/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Smart Building
 /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/appsettings.Development.json
 /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/appsettings.json
 /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/proxies.json
-/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/webapp.dll
-/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/webapp.deps.json
-/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/webapp.runtimeconfig.json
-/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/webapp.pdb
+/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Smart Building.dll
+/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Smart Building.deps.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Smart Building.runtimeconfig.json
+/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Smart Building.pdb
 /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/bin/Release/net6.0/publish/Newtonsoft.Json.dll

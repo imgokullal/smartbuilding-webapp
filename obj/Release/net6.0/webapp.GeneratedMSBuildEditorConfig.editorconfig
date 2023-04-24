@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webapp
 build_property.RootNamespace = webapp
-build_property.ProjectDir = /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/
+build_property.ProjectDir = /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp
+build_property.MSBuildProjectDirectory = /Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/Error.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/Index.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/Privacy.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/_ViewImports.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/_ViewStart.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/webapp/Pages/Shared/_Layout.cshtml]
+[/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-enjpwd5p0e
+build_metadata.AdditionalFiles.CssScope = b-oa1p8d1qy4

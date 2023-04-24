@@ -1,4 +1,4 @@
-﻿@* Some changes were made according to the workshop 7 https://cmp9785m-cloud-development-2023.github.io/CloudDevelopment/workshop7.html *@
+﻿@* The code was copied and modified from workshop 7 https://cmp9785m-cloud-development-2023.github.io/CloudDevelopment/workshop7.html *@
 @page
 @model IndexModel
 @{
@@ -8,8 +8,10 @@
     <h1 class="display-4">Danesgate utility usage statistics</h1>
     <div style="width:500px; margin: 0 auto; text-align:center;">
         <p>Submitted by: 26619903</p>
-        <p>The below table provides a sample of the idea discussed in the report. ie, to monitor utilities usage of every flat in a building for example Student accomomodations</p>
+        <p>The below table provides a sample of the Elecriticy, Cooking gas and Water usage of flat a and b in a Student accomomodation called Danesgate.</p>
     </div>
-
+@* This iframe displays the table data that is coming from the HTTP trigger function *@
     <iframe src="https://getenergydan.azurewebsites.net/api/utilities/?" style="width:100%">
 </div>
+
+
