@@ -18,10 +18,10 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-# - task: AzureRmWebAppDeployment@4
-#   inputs:
-#     ConnectionType: 'AzureRM'
-#     azureSubscription: 'Azure for Students (d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
-#     appType: 'webApp'
-#     WebAppName: 'energyUsagedanesgate'
-#     packageForLinux: '$(System.DefaultWorkingDirectory)/'
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Azure for Students (d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
+    appType: 'webApp'
+    WebAppName: 'energyUsagedanesgate'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/'
