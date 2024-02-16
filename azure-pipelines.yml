@@ -21,7 +21,7 @@ steps:
 - task: AzureRmWebAppDeployment@4
   inputs:
     ConnectionType: 'AzureRM'
-    azureSubscription: 'Azure for Students (674b6853-713d-4e84-9cc3-d4e22e7351c7)'
+    azureSubscription: 'Azure for Students (d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
     appType: 'webApp'
     WebAppName: 'energyUsagedanesgate'
     packageForLinux: '$(System.DefaultWorkingDirectory)/'
