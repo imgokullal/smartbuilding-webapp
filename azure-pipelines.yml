@@ -20,6 +20,9 @@ jobs:
     displayName: 'Deploy to Azure Web App'
 
   - script: |
-      echo Add other tasks to build, test, and deploy your project.
-      echo See https://aka.ms/yaml
-    displayName: 'Run a multi-line script'
+      # Replace this section with your actual build and test commands
+      echo "Building and Testing your project..."
+      dotnet build
+      dotnet test
+      echo "Build and Test completed successfully."
+    displayName: 'Build and Test'
