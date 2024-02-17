@@ -8,6 +8,7 @@ pool:
 
 jobs:
 - job: BuildAndDeploy
+  parallel: 1
   displayName: 'Build and Deploy Job'
   steps:
   - task: AzureRmWebAppDeployment@4
