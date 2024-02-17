@@ -1,14 +1,25 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.- task: AzureRmWebAppDeployment@4
-  inputs:
-    ConnectionType: 'AzureRM'
-    azureSubscription: 'Azure for Students(d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
-    appType: 'webApp'
-    WebAppName: 'testapp-g-v1'
-    packageForLinux: '''$(System.DefaultWorkingDirectory)'''
-  displayName: 'Run a one-line script'
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# See https://aka.ms/yaml
+trigger:
+- main
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+pool:
+  vmImage: 'windows-latest'
+
+jobs:
+- job: BuildAndDeploy
+  displayName: 'Build and Deploy Job'
+  steps:
+  - task: AzureRmWebAppDeployment@4
+    inputs:
+      ConnectionType: 'AzureRM'
+      azureSubscription: 'Azure for Students(d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
+      appType: 'webApp'
+      WebAppName: 'testapp-g-v1'
+      packageForLinux: '$(System.DefaultWorkingDirectory)'
+    displayName: 'Deploy to Azure Web App'
+
+  - script: |
+      echo Add other tasks to build, test, and deploy your project.
+      echo See https://aka.ms/yaml
+    displayName: 'Run a multi-line script'
