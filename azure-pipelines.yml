@@ -4,8 +4,34 @@ trigger:
 pool:
   vmImage: 'windows-latest'
 
-jobs:
-- job: CheckPipeline
-  displayName: 'Check if the Pipeline is Running'
-  steps:
-  - script: echo "The pipeline is running!"
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+  - task: DotNetCoreCLI@2
+    displayName: Restore
+    inputs:
+      command: 'restore'
+      feedsToUse: 'select'
+      vstsFeed: 'my-vsts-feed'
+
+  - task: DotNetCoreCLI@2
+    displayName: Build
+    inputs:
+      command: build
+      projects: '**/*.csproj'
+      arguments: '--configuration $(buildConfiguration)'
+
+  - task: DotNetCoreCLI@2
+    displayName: Publish
+    inputs:
+      command: publish
+      publishWebProjects: True
+      arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+      zipAfterPublish: True
+
+  - task: PublishPipelineArtifact@1
+    displayName: Upload
+    inputs:
+      targetPath: '$(Build.ArtifactStagingDirectory)'
+      artifactName: 'TestApp2'
