@@ -33,5 +33,12 @@ steps:
   - task: PublishPipelineArtifact@1
     displayName: Upload
     inputs:
-      targetPath: '$(Build.ArtifactStagingDirectory)'
-      artifactName: 'TestApp2'
+      targetPath: '
+      
+  - task: AzureRmWebAppDeployment@4
+    inputs:
+      azureSubscription: 'Azure for Students(d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
+      appName:'win-app-iis'
+      package:'$(Build.ArtifactStagingDirectory)/**/*.zip'
+      deployToSlotOrAse:true
+      slotName:'Production'
