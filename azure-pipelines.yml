@@ -8,30 +8,31 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-  # - task: DotNetCoreCLI@2
-  #   displayName: Restore
-  #   inputs:
-  #     command: 'restore'
-  #     feedsToUse: 'select'
-  #     vstsFeed: 'my-vsts-feed'
 
-  - task: DotNetCoreCLI@2
-    displayName: Build
-    inputs:
-      command: build
-      projects: '**/*.csproj'
-      arguments: '--configuration $(buildConfiguration)'
+- task: DotNetCoreCLI@2
+  displayName: 'Build'
+  inputs:
+    command: 'build'
+    projects: '**/*.csproj'
+    arguments: '--configuration $(buildConfiguration)'
 
-  - task: DotNetCoreCLI@2
-    displayName: Publish
-    inputs:
-      command: publish
-      publishWebProjects: True
-      arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
-      zipAfterPublish: True
+- task: DotNetCoreCLI@2
+  displayName: 'Publish'
+  inputs:
+    command: 'publish'
+    publishWebProjects: True
+    arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+    zipAfterPublish: True
 
-  - task: PublishPipelineArtifact@1
-    displayName: Upload
-    inputs:
-      targetPath: '$(Build.ArtifactStagingDirectory)'
-      artifactName: 'TestApp2'
+- task: PublishPipelineArtifact@1
+  displayName: 'Upload'
+  inputs:
+    targetPath: '$(Build.ArtifactStagingDirectory)'
+
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Azure for Students(d0b94752-9fc6-4ed5-b836-2a12e61d1fbf)'
+    appType: 'webApp'
+    WebAppName: 'win-app-iis'
+    packageForLinux: '$(Build.ArtifactStagingDirectory)/**/*.zip'
