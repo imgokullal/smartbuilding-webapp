@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/674b6853-713d-4e84-9cc3-d4e22e7351c7/resourceGroups/assignment/providers/Microsoft.Web/sites/energyUsagedanesgate"
+}

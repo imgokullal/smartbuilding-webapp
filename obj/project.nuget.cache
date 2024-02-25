@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9D9P5bDLBoAbjXS9qx98fx2nWdF8E0cFu+vqKmgg7TlB5WXNWwAtkkQtUllsa7257zqD+6X77ocUrejZ6/cRnQ==",
+  "dgSpecHash": "YSNSJ8iP1uWhzAiBtTlW/nouUNeyejPks6gJIZChOSV8fENgEUhE+/d0gdhYTkx9zXGCP7/17CVodryOIgDwWQ==",
   "success": true,
-  "projectFilePath": "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/webapp.csproj",
+  "projectFilePath": "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/webapp.csproj",
   "expectedPackageFiles": [
     "/Users/gokullal/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],

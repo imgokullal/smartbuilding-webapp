@@ -24,3 +24,32 @@
 /Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/obj/Debug/net6.0/webapp.pdb
 /Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/obj/Debug/net6.0/webapp.genruntimeconfig.cache
 /Users/gokullal/Desktop/cloud develpment/assignment/main /webapp/obj/Debug/net6.0/ref/webapp.dll
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/appsettings.Development.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/appsettings.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/proxies.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building.staticwebassets.runtime.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building.deps.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building.runtimeconfig.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building.dll
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Smart Building.pdb
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.csproj.AssemblyReference.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.AssemblyInfoInputs.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.AssemblyInfo.cs
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.csproj.CoreCompileInputs.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/Smart Building.MvcApplicationPartsAssemblyInfo.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.RazorAssemblyInfo.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.RazorAssemblyInfo.cs
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/scopedcss/bundle/Smart Building.styles.css
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/scopedcss/projectbundle/Smart Building.bundle.scp.css
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.csproj.CopyComplete
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/Smart Building.dll
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/refint/Smart Building.dll
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/Smart Building.pdb
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/webapp.genruntimeconfig.cache
+/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/Debug/net6.0/ref/Smart Building.dll

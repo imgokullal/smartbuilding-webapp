@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/webapp.csproj": {}
+    "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/webapp.csproj": {}
   },
   "projects": {
-    "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/webapp.csproj": {
+    "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/webapp.csproj",
+        "projectUniqueName": "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/webapp.csproj",
         "projectName": "Smart Building",
-        "projectPath": "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/webapp.csproj",
+        "projectPath": "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/webapp.csproj",
         "packagesPath": "/Users/gokullal/.nuget/packages/",
-        "outputPath": "/Users/gokullal/Desktop/cloud develpment/assignment/main /smartbuilding/Smart Building/obj/",
+        "outputPath": "/Users/gokullal/Uni/Sem2/cloud develpment/assignment/main /smartbuilding/SmartBuilding/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gokullal/.nuget/NuGet/NuGet.Config"
